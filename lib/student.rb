@@ -4,7 +4,6 @@ class Student
   end
   
   def raise_hand
-    super
-    
+    "Pick me!"
   end
 end
